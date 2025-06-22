@@ -28,3 +28,5 @@ Exmaple input:
 For villages the final constraint (yes or no) means if it is abandoned and the number before is biome type (1 = plains, 2 = snowy, 3 = taiga, 4 = savanna, 5 = desert)
 
 For portals the second to last constraint (yes or no) means if it is mirrored and the final constraint is biome type which does affect portal tye (1 = most biomes, 2 = desert, nether (after 1.18), swamp (not mangrove though), ocean, 3 = jungle (any kind of portal that has vines growing on it)
+
+pillarseed is optional just add it as the last line in the file leave blank if not
