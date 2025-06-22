@@ -1,6 +1,10 @@
 # general_seedcracker
+
 A CUDA Structure seed cracker that supports shipwrecks (1.16+), ruined portals, and villages (1.18+)
 
+Can do ruined portal alone in about 11 minutes at most through google colab
+
+Shipwrecks will make it significantly faster
 
 Compiled using:
 
